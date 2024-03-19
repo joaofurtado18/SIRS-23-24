@@ -1,0 +1,25 @@
+{
+  "media": {
+    "mediaInfo": {
+      "owner": "Bob",
+      "format": "WAV",
+      "artist": "Alison Chains",
+      "title": "Man in the Bin",
+      "genre": [
+        "Grunge",
+        "Alternative Metal"
+      ]
+    },
+    "mediaContent": {
+      "lyrics": [
+        "Hello World",
+        "Container whispers, in this space alone",
+        "Echoes of silence, in the walls I confide",
+        "A man in the box, with nowhere to hide",
+        "Chained by thoughts, in a silent uproar",
+        "Searching for keys, to unlock the door"
+      ],
+      "audioBase64": "UklGRiQIAAAWQVZAAWQVZFZm10IBAAAAABAAFZm10IBAAAAAAAWQVZFZm10IBAAAWQVZFZm10IBAAAAABAAAAAABAABAAIAEABAAWQVZFZm10IBAAAAABAAHACAAA...ABGAAQAFABkYXRhAAgA=="
+    }
+  }
+}
