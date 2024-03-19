@@ -92,7 +92,7 @@ For each machine, there is an initialization script with the machine name, with 
 Inside each machine, use Git to obtain a copy of all the scripts and code.
 
 ```sh
-$ git clone https://github.com/tecnico-sec/t21-joao-diogo-guilherme.git
+$ git clone git@github.com:joaofurtado18/SIRS-23-24.git
 ```
 
 Next we have custom instructions for each machine.
