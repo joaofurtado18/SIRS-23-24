@@ -8,11 +8,6 @@
 | 99078  | Guilherme Carabalone  | <https://github.com/Carabalone>    | <mailto:guilherme.carabalone@tecnico.ulisboa.pt>  |
 | 99095  | João Furtado          | <https://github.com/joaofurtado18> | <mailto:joao.melo.furtado@tecnico.ulisboa.pt>     |
 
-_(fill table above with team member information)_
-
-![Diogo](foto-diogo.jpeg) ![João](foto-joao.jpeg) ![Guilherme](foto-guilherme.jpeg)
-
-_(add face photos with 150px height; faces should have similar size and framing)_
 
 ## Contents
 
